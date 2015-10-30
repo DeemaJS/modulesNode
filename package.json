@@ -1,0 +1,30 @@
+{
+  "name": "modulesnode",
+  "version": "1.0.0",
+  "description": "Best modules for Node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeemaJS/modulesNode.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "modules"
+  ],
+  "author": "DeemaJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeemaJS/modulesNode/issues"
+  },
+  "homepage": "https://github.com/DeemaJS/modulesNode#readme"
+}
